@@ -1,0 +1,5 @@
+chapters/*
+*.epub
+node_modules
+.DS_Store
+chapters.json
